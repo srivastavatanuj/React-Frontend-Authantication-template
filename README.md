@@ -1,4 +1,12 @@
-This documentation provides an overview of the folder structure for a React app. The app consists of various components and files that work together to create a functional user interface. Below is a breakdown of the folder structure:
+The React-App project is a web application that provides Front End for a signup system. It allows users to navigate different pages to complete various registration process. The application utilizes various components to handle different aspects of the signup process, such as connecting to the login functionality, verifying email addresses, linking email accounts, verifying password, and linking wallet functionality.
+Note-> This is only frontend , no backend functionality is added in this.
+![Screenshot from 2023-07-02 02-25-30](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/98887d9f-be6f-43fa-b5ef-925d51c9422a)
+![Screenshot from 2023-07-02 02-17-31](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/8d33a2a8-82f4-48c7-989c-af9fbe31f16b)![Screenshot from 2023-07-02 02-17-36](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/6e5ac3ce-c114-4971-87e0-7727a1e88911)
+![Screenshot from 2023-07-02 02-23-15](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/691a21fc-23a4-4322-8c43-0fa59d76d![Screenshot from 2023-07-02 02-23-19](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/48f8f012-4586-435c-89af-87d0256185d0)
+c32)
+
+
+
 
 
 
