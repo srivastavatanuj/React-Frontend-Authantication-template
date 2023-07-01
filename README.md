@@ -2,6 +2,14 @@ This documentation provides an overview of the folder structure for a React app.
 
 
 
+# Folder Structure
+
+The folder structure of the React quiz app project is organized as follows:
+![Screenshot from 2023-07-02 01-59-58](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/d4dd8deb-ae5c-4b0c-b5d9-4cafe822c963)
+
+
+
+
 # Installation
 
 To install and run the React quiz app locally, follow these steps:
