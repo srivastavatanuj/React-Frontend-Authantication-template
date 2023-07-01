@@ -5,8 +5,7 @@ Note-> This is only frontend , no backend functionality is added in this.
 ![Screenshot from 2023-07-02 02-25-30](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/98887d9f-be6f-43fa-b5ef-925d51c9422a)
 ![Screenshot from 2023-07-02 02-17-31](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/8d33a2a8-82f4-48c7-989c-af9fbe31f16b)![Screenshot from 2023-07-02 02-17-36](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/6e5ac3ce-c114-4971-87e0-7727a1e88911)
 
-[Screenshot from 2023-07-02 02-23-19](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/48f8f012-4586-435c-89af-87d0256185d0)
-c32)
+![Screenshot from 2023-07-02 02-23-19](https://github.com/srivastavatanuj/React-Frontend-Authantication-template/assets/73632086/e3e8ac0c-b200-4a92-9a44-d01d3e1623fb)
 
 
 
